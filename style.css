@@ -1,0 +1,21 @@
+.kotak{
+    width: 200px;
+    height: 200px;
+    background: green;
+    color: red;
+    padding: 15px;
+    Margin-bottom: 15px;
+
+}
+.kotak1{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    color: red;
+    padding: 15px;
+    Margin-bottom: 25px;
+
+p{
+    font-family: monospace;
+    font-weight: 250;
+}
